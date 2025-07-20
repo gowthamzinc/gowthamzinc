@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on CRM Project <br>I’m looking to collaborate with ai tools and machine learning <br>I’m looking for help with exploring new perspectives, building connections <br>I’m currently learning NextJs<br>
+I’m currently working on data visualization Project <br>I’m looking to collaborate with ai tools and machine learning <br>I’m looking for help with exploring new perspectives, building connections <br>I’m currently learning NextJs<br>
 
 
 ## 🌐 Socials:
